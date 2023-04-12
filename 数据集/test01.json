@@ -1,0 +1,530 @@
+{
+    "Stroke": "none",
+    "background_alpha": 0.5,
+    "background_color": "#9C27B0",
+    "body": [
+        {
+            "content": "是谁说的",
+            "from": 23.9,
+            "location": 2,
+            "sid": 1,
+            "to": 24.56
+        },
+        {
+            "content": "周末想和我黏在一起",
+            "from": 24.56,
+            "location": 2,
+            "sid": 2,
+            "to": 26.36
+        },
+        {
+            "content": "只是收到了邀请函",
+            "from": 45.68,
+            "location": 2,
+            "sid": 3,
+            "to": 47.38
+        },
+        {
+            "content": "还在考虑要不要参加",
+            "from": 47.38,
+            "location": 2,
+            "sid": 4,
+            "to": 49.279
+        },
+        {
+            "content": "政府今年才开始筹办",
+            "from": 52.82,
+            "location": 2,
+            "sid": 5,
+            "to": 54.779
+        },
+        {
+            "content": "官方称",
+            "from": 56.34,
+            "location": 2,
+            "sid": 6,
+            "to": 57.14
+        },
+        {
+            "content": "是为了向中小学生接受优秀",
+            "from": 57.14,
+            "location": 2,
+            "sid": 7,
+            "to": 59.36
+        },
+        {
+            "content": "企业和不同的职业领域",
+            "from": 59.36,
+            "location": 2,
+            "sid": 8,
+            "to": 60.98
+        },
+        {
+            "content": "帮助他们树立梦想",
+            "from": 60.98,
+            "location": 2,
+            "sid": 9,
+            "to": 62.699
+        },
+        {
+            "content": "展览可以考虑进企业参观就不必了",
+            "from": 78.1,
+            "location": 2,
+            "sid": 10,
+            "to": 81.7
+        },
+        {
+            "content": "黄锐已经有一个很吵闹的小朋友了",
+            "from": 87.74,
+            "location": 2,
+            "sid": 11,
+            "to": 90.14
+        },
+        {
+            "content": "到展厅门口的咖啡馆",
+            "from": 126.24,
+            "location": 2,
+            "sid": 12,
+            "to": 128.14
+        },
+        {
+            "content": "你说在咖啡馆能干什么",
+            "from": 131.24,
+            "location": 2,
+            "sid": 13,
+            "to": 133.42
+        },
+        {
+            "content": "打高尔夫改策划案",
+            "from": 134.679,
+            "location": 2,
+            "sid": 14,
+            "to": 136.889
+        },
+        {
+            "content": "骑马喝咖啡",
+            "from": 136.889,
+            "location": 2,
+            "sid": 15,
+            "to": 138.299
+        },
+        {
+            "content": "你觉得哪样最合适",
+            "from": 139.379,
+            "location": 2,
+            "sid": 16,
+            "to": 140.96
+        },
+        {
+            "content": "我点了淡奶油蛋糕",
+            "from": 145.02,
+            "location": 2,
+            "sid": 17,
+            "to": 146.78
+        },
+        {
+            "content": "你再不过来",
+            "from": 146.78,
+            "location": 2,
+            "sid": 18,
+            "to": 148.28
+        },
+        {
+            "content": "我就默认你不感兴趣了",
+            "from": 148.28,
+            "location": 2,
+            "sid": 19,
+            "to": 150.2
+        },
+        {
+            "content": "什么时候觉悟这么高了",
+            "from": 158.98,
+            "location": 2,
+            "sid": 20,
+            "to": 160.56
+        },
+        {
+            "content": "前几天是谁刻苦学习网上的摸鱼秘籍",
+            "from": 162.72,
+            "location": 2,
+            "sid": 21,
+            "to": 165.38
+        },
+        {
+            "content": "离展览开始还有一个小时",
+            "from": 174.339,
+            "location": 2,
+            "sid": 22,
+            "to": 176.039
+        },
+        {
+            "content": "我已经让魏谦通知大家休息一会儿了",
+            "from": 177.239,
+            "location": 2,
+            "sid": 23,
+            "to": 179.6
+        },
+        {
+            "content": "总之你不必内疚",
+            "from": 181.76,
+            "location": 2,
+            "sid": 24,
+            "to": 183.28
+        },
+        {
+            "content": "因为",
+            "from": 183.28,
+            "location": 2,
+            "sid": 25,
+            "to": 184.34
+        },
+        {
+            "content": "除了你摸鱼的人",
+            "from": 192.679,
+            "location": 2,
+            "sid": 26,
+            "to": 195.039
+        },
+        {
+            "content": "还有一个",
+            "from": 195.039,
+            "location": 2,
+            "sid": 27,
+            "to": 195.98
+        },
+        {
+            "content": "好吃都堵不住你的贫嘴",
+            "from": 207.679,
+            "location": 2,
+            "sid": 28,
+            "to": 209.78
+        },
+        {
+            "content": "再拿一张",
+            "from": 237.02,
+            "location": 2,
+            "sid": 29,
+            "to": 238.22
+        },
+        {
+            "content": "嗯嗯",
+            "from": 315.079,
+            "location": 2,
+            "sid": 30,
+            "to": 316.16
+        },
+        {
+            "content": "你确定只有这些问题吗",
+            "from": 366.96,
+            "location": 2,
+            "sid": 31,
+            "to": 368.9
+        },
+        {
+            "content": "总裁小姐",
+            "from": 368.9,
+            "location": 2,
+            "sid": 32,
+            "to": 370.38
+        },
+        {
+            "content": "关于那份策划案",
+            "from": 371.66,
+            "location": 2,
+            "sid": 33,
+            "to": 373.03
+        },
+        {
+            "content": "我也反省了很多",
+            "from": 373.03,
+            "location": 2,
+            "sid": 34,
+            "to": 374.14
+        },
+        {
+            "content": "有些问题还没来得及告诉你",
+            "from": 375.16,
+            "location": 2,
+            "sid": 35,
+            "to": 377.08
+        },
+        {
+            "content": "既然你提出来了",
+            "from": 378.62,
+            "location": 2,
+            "sid": 36,
+            "to": 380.23
+        },
+        {
+            "content": "我只好在这里做个自我检讨了",
+            "from": 380.23,
+            "location": 2,
+            "sid": 37,
+            "to": 382.56
+        },
+        {
+            "content": "节目的主题概括笼统",
+            "from": 387.24,
+            "location": 2,
+            "sid": 38,
+            "to": 388.91
+        },
+        {
+            "content": "缺乏打动观众的细节",
+            "from": 388.91,
+            "location": 2,
+            "sid": 39,
+            "to": 391.36
+        },
+        {
+            "content": "集市也有以往节目的影子",
+            "from": 392.18,
+            "location": 2,
+            "sid": 40,
+            "to": 394.51
+        },
+        {
+            "content": "换汤不换药",
+            "from": 394.51,
+            "location": 2,
+            "sid": 41,
+            "to": 395.56
+        },
+        {
+            "content": "有些老疼",
+            "from": 395.56,
+            "location": 2,
+            "sid": 42,
+            "to": 396.54
+        },
+        {
+            "content": "你定的一位主要节目嘉宾",
+            "from": 398.159,
+            "location": 2,
+            "sid": 43,
+            "to": 400.159
+        },
+        {
+            "content": "昨天刚爆出来丑闻",
+            "from": 400.159,
+            "location": 2,
+            "sid": 44,
+            "to": 401.989
+        },
+        {
+            "content": "候选嘉宾还没有定下来",
+            "from": 401.989,
+            "location": 2,
+            "sid": 45,
+            "to": 403.96
+        },
+        {
+            "content": "还有",
+            "from": 405.4,
+            "location": 2,
+            "sid": 46,
+            "to": 406.36
+        },
+        {
+            "content": "所以新的方案什么时候赶到",
+            "from": 411.66,
+            "location": 2,
+            "sid": 47,
+            "to": 413.99
+        },
+        {
+            "content": "此前就是明天了",
+            "from": 413.99,
+            "location": 2,
+            "sid": 48,
+            "to": 416.42
+        },
+        {
+            "content": "那我就拭目以待了",
+            "from": 421.74,
+            "location": 2,
+            "sid": 49,
+            "to": 423.28
+        },
+        {
+            "content": "期待你的下次挑战",
+            "from": 436.24,
+            "location": 2,
+            "sid": 50,
+            "to": 438.0
+        },
+        {
+            "content": "傻愣在原地做什么",
+            "from": 458.84,
+            "location": 2,
+            "sid": 51,
+            "to": 460.69
+        },
+        {
+            "content": "肚子不饿了",
+            "from": 460.69,
+            "location": 2,
+            "sid": 52,
+            "to": 462.08
+        },
+        {
+            "content": "人生的确只有一次",
+            "from": 470.46,
+            "location": 2,
+            "sid": 53,
+            "to": 471.92
+        },
+        {
+            "content": "这个道理连小学生都知道",
+            "from": 473.12,
+            "location": 2,
+            "sid": 54,
+            "to": 475.08
+        },
+        {
+            "content": "你如果遇到了小时候的自己",
+            "from": 483.38,
+            "location": 2,
+            "sid": 55,
+            "to": 485.68
+        },
+        {
+            "content": "会告诉他的唯品魔吗",
+            "from": 485.68,
+            "location": 2,
+            "sid": 56,
+            "to": 487.7
+        },
+        {
+            "content": "所以我要拿过于客观理性的大道理",
+            "from": 493.079,
+            "location": 2,
+            "sid": 57,
+            "to": 496.399
+        },
+        {
+            "content": "说教别人努力拼搏",
+            "from": 496.399,
+            "location": 2,
+            "sid": 58,
+            "to": 499.64
+        },
+        {
+            "content": "固然科举没有什么事",
+            "from": 499.64,
+            "location": 2,
+            "sid": 59,
+            "to": 502.04
+        },
+        {
+            "content": "可以作为人们停下脚步的借口",
+            "from": 502.04,
+            "location": 2,
+            "sid": 60,
+            "to": 504.08
+        },
+        {
+            "content": "但这也不代表着",
+            "from": 505.66,
+            "location": 2,
+            "sid": 61,
+            "to": 507.03
+        },
+        {
+            "content": "人人都要以努力拼搏为目标",
+            "from": 507.03,
+            "location": 2,
+            "sid": 62,
+            "to": 509.49
+        },
+        {
+            "content": "毕竟每个人对自己的期望都不同",
+            "from": 509.49,
+            "location": 2,
+            "sid": 63,
+            "to": 512.079
+        },
+        {
+            "content": "不是所有人都想要站在顶峰",
+            "from": 513.78,
+            "location": 2,
+            "sid": 64,
+            "to": 516.12
+        },
+        {
+            "content": "比起俯瞰山顶",
+            "from": 517.62,
+            "location": 2,
+            "sid": 65,
+            "to": 518.84
+        },
+        {
+            "content": "有的人只是想快乐简单地欣赏沿途的景色",
+            "from": 519.92,
+            "location": 2,
+            "sid": 66,
+            "to": 522.959
+        },
+        {
+            "content": "这听起来简单",
+            "from": 524.66,
+            "location": 2,
+            "sid": 67,
+            "to": 526.0
+        },
+        {
+            "content": "但成为一个普通人也不会是一件轻松的事",
+            "from": 526.0,
+            "location": 2,
+            "sid": 68,
+            "to": 529.9
+        },
+        {
+            "content": "人生只有一次",
+            "from": 531.36,
+            "location": 2,
+            "sid": 69,
+            "to": 533.24
+        },
+        {
+            "content": "这句话在不同语境中可以有很多解释",
+            "from": 533.24,
+            "location": 2,
+            "sid": 70,
+            "to": 536.719
+        },
+        {
+            "content": "我觉得你做总裁的确有模有样的",
+            "from": 568.72,
+            "location": 2,
+            "sid": 71,
+            "to": 571.319
+        },
+        {
+            "content": "你有听说过哪个小孩子的梦想这么无视吗",
+            "from": 577.5,
+            "location": 2,
+            "sid": 72,
+            "to": 580.579
+        },
+        {
+            "content": "没什么可好奇的",
+            "from": 625.68,
+            "location": 2,
+            "sid": 73,
+            "to": 627.28
+        },
+        {
+            "content": "我最想选择的人生已经握在我手中了",
+            "from": 637.02,
+            "location": 2,
+            "sid": 74,
+            "to": 640.74
+        }
+    ],
+    "font_color": "#FFFFFF",
+    "font_size": 0.4,
+    "lang": "zh",
+    "type": "AIsubtitle",
+    "version": "sync-v1.4.0.4"
+}
